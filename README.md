@@ -28,3 +28,7 @@ Lokuð spurning er spurning sem er hægt að svara bara með "já" eða "nei". T
 Opin spurning er spurning sem þarf að svara með fleiri en einu orði. Til dæmis "Hvað ætlarðu að gera í dag? "
 
 ### 8. Hvað eru jaðartæki?
+Jaðartæki eru tæki sem tengjast við tölvuna að utan, t.d. mús, lyklaborð og heyrnartól.
+
+### 9. Nefndu þrjú dæmi um inntakstæki.
+Lyklaborð, mús og skannar.
