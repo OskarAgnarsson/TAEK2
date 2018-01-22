@@ -21,4 +21,9 @@ ESD stendur fyrir electro-static discharge. Það er straumur sem kemur stundum 
 3. Prófa ástæðuna
 4. Plana hvernig á að laga vandamálið
 5. Eftir að búið er að laga vandamálið, gá hvort allt sé í lagi
-6. 
+6. Skrifa niður hvernig á að laga vandamálið, skref til að laga vandamálið og hvaða hluti þurfti til þess.
+
+### 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
+Lokuð spurning er spurning sem er hægt að svara bara með "já" eða "nei". Til dæmis "Má ég fara? "
+Opin spurning er spurning sem þarf að svara með fleiri en einu orði. Til dæmis "Hvað ætlarðu að gera í dag? "
+
