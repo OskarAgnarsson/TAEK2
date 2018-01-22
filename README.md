@@ -34,23 +34,22 @@ Jaðartæki eru tæki sem tengjast við tölvuna að utan, t.d. mús, lyklaborð
 Lyklaborð, mús og skannar.
 
 ### 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur ### hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
-| Tables        | Are           | Cool  |
+| Hlutur        | Verð          | Búð   |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+|               |               |       |
+| Kassi:        |  |  |
+| Cooler Master Dominator 690 III      | 17.497 kr.      |   Tölvulistinn |
+| CPU: |      |   |
+|  Intel i5 7600k     | 29.900 kr. | Tölvutækni |
+| RAM:      |      |    |
+| Corsair 16GB kit (2x8GB) DDR4 3600MHz, CL18, Vengeance LPX | 33.900 kr.      |    Tölvutækni |
+| Móðurborð:      |  |  |
+| Gigabyte S1151 GA-Z270-Gaming K3      | 19.990 kr.      |   Tölvutek |
+| PSU: |       |     |
+| EVGA 850W 80+ G3 Gold SuperNova Modula      | 28.990 kr. | computer.is |
+| GPU:      |      |    |
+| Gigabyte GeForce GTX 1070 OC skjákort 8GB  | 64.900 kr.      |    Ódýrið |
+| SSD og HDD:      |  |  |
+| 250 GB Samsung 850 EVO      | 18.900 kr.      |   Tölvutækni |
+| 4 TB Western Digital Blue | 21.950 kr.      |    @tt.is |
+| | 236.027 kr. | |
