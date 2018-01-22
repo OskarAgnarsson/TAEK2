@@ -6,3 +6,5 @@ RAM stendur fyrir random access memory. RAM er tímabundið vinnsluminni fyrir f
 ### 2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
 ROM stendur fyrir read-only memory. ROM geymir leiðbeiningar fyrir CPUið til að gera basic hluti eins og að kveikja á tölvunni.
 
+### 3. Hvað er fyrirbyggjandi viðhald?
+Viðhald til að halda einhverju frá því að eyðileggjast í framtíðinni
