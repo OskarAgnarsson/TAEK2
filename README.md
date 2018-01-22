@@ -14,3 +14,11 @@ ESD stendur fyrir electro-static discharge. Það er straumur sem kemur stundum 
 
 ### 5. Hvað þarf að hafa í huga við val á spennugjöfum? 
 Það þarf að virka með móðurborðinu, það þarf að hafa nógu mikið rafmagn, það þarf að vera með réttar snúrur og það þarf að passa í kassann.
+
+### 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+1. Finna vandamálið
+2. Finna líklega ástæðu fyrir vandamálinu
+3. Prófa ástæðuna
+4. Plana hvernig á að laga vandamálið
+5. Eftir að búið er að laga vandamálið, gá hvort allt sé í lagi
+6. 
